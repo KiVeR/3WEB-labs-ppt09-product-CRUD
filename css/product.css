@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+}
+.page-header {
+    padding-bottom: 50px;
+}
+
+.pull-right {
+	float: right;
+}
+
+.table-content{
+	text-align: left;
+}
